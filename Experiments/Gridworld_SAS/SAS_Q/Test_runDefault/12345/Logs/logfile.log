@@ -1,0 +1,12 @@
+Module path:  Environments.Gridworld_SAS Gridworld_SAS
+Dynamically loaded from:  <class 'Environments.Gridworld_SAS.Gridworld_SAS'>
+difficulty 1
+Module path:  Src.Algorithms.Stochastic_Actions.SAS_Q SAS_Q
+Dynamically loaded from:  <class 'Src.Algorithms.Stochastic_Actions.SAS_Q.SAS_Q'>
+=====Configurations=====
+ Namespace(NN_basis_dim='256', Policy_basis_dim='2,16', SAS_q_updates=16, SF_bridge_prob=-1, action_prob=0.8, actor_lr=0.0001, algo_name='SAS_Q', alpha_rate=0.9999, base=-2, batch_size=16, buffer_size=10000, debug=False, difficulty=1, env_name='Gridworld_SAS', exp=0.075, experiment='Test_run', folder_suffix='Default', fourier_coupled=True, fourier_order=3, gamma=0.99, gpu=0, hyper=-2, inc=-2, log_output='term_file', max_episodes=10000, max_steps=150, n_actions=16, optim='sgd', q_lr=0.001, restore=False, save_count=10, save_model=True, seed=12345, state_lr=0.001, summary=True, timestamp='5|14|19:35:28', trace_lambda=0.9, v_lr=0.01)
+Actions space: 16 :: State space: 2
+0 :: Rewards -0.039 :: steps: 0.08 :: Time: 0.000(0.00029/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [0, 0]
+1000 :: Rewards -3.948 :: steps: 79.96 :: Time: 0.012(0.00015/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [0, 0]
+2000 :: Rewards -3.456 :: steps: 79.99 :: Time: 0.011(0.00013/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [0, 0]
+3000 :: Rewards -3.950 :: steps: 80.00 :: Time: 0.012(0.00015/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [0, 0]
