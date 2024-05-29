@@ -31,9 +31,9 @@ q_lr: 0.001
 restore: false
 save_count: 9999
 save_model: true
-seed: 12345
+seed: 28
 state_lr: 0.001
 summary: true
-timestamp: 5|15|16:13:21
+timestamp: 5|24|21:16:15
 trace_lambda: 0.9
 v_lr: 0.01

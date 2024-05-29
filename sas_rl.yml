@@ -31,4 +31,4 @@ dependencies:
       - pyyaml==6.0.1
       - torch==1.10.2
       - typing-extensions==4.1.1
-prefix: C:\Users\Admin\miniconda3\envs\SAS_RL
+prefix: C:\Users\Admin\anaconda3\envs\SAS_RL
