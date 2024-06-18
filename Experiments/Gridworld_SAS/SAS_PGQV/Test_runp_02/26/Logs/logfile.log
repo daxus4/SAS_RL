@@ -1,0 +1,29 @@
+Module path:  Environments.Gridworld_SAS Gridworld_SAS
+Dynamically loaded from:  <class 'Environments.Gridworld_SAS.Gridworld_SAS'>
+difficulty 1
+Module path:  Src.Algorithms.Stochastic_Actions.SAS_PGQV SAS_PGQV
+Dynamically loaded from:  <class 'Src.Algorithms.Stochastic_Actions.SAS_PGQV.SAS_PGQV'>
+=====Configurations=====
+ Namespace(NN_basis_dim='256', Policy_basis_dim='2,16', SAS_q_updates=16, SF_bridge_prob=-1, action_prob=0.2, actor_lr=0.0001, algo_name='SAS_PGQV', alpha_rate=0.9999, base=-2, batch_size=16, buffer_size=10000, debug=False, difficulty=1, env_name='Gridworld_SAS', exp=0.075, experiment='Test_run', folder_suffix='p_02', fourier_coupled=True, fourier_order=3, gamma=0.99, gpu=0, hyper=-2, inc=-2, log_output='term_file', max_episodes=20000, max_steps=150, n_actions=16, optim='sgd', q_lr=0.001, restore=False, save_count=19999, save_model=True, seed=26, state_lr=0.001, summary=True, timestamp='5|22|23:38:43', trace_lambda=0.9, v_lr=0.01)
+Actions space: 16 :: State space: 2
+0 :: Rewards -0.039 :: steps: 80.00 :: Time: 0.028(0.00035/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.50011394 -0.49994807]
+1000 :: Rewards 0.054 :: steps: 80.00 :: Time: 0.016(0.00020/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.45332916 -0.52874781]
+2000 :: Rewards 13.345 :: steps: 80.00 :: Time: 0.016(0.00020/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.40714012 -0.57158645]
+3000 :: Rewards 61.106 :: steps: 80.00 :: Time: 0.031(0.00039/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.37261813 -0.62942805]
+4000 :: Rewards 78.893 :: steps: 45.00 :: Time: 0.016(0.00035/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.35029959 -0.66625222]
+5000 :: Rewards 86.340 :: steps: 34.00 :: Time: 0.009(0.00025/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.33841535 -0.68497717]
+6000 :: Rewards 89.009 :: steps: 56.00 :: Time: 0.016(0.00028/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.32853021 -0.69934841]
+7000 :: Rewards 91.168 :: steps: 78.00 :: Time: 0.022(0.00028/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.32335914 -0.70691117]
+8000 :: Rewards 94.425 :: steps: 63.00 :: Time: 0.031(0.00050/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.31796615 -0.7142515 ]
+9000 :: Rewards 95.543 :: steps: 29.00 :: Time: 0.016(0.00054/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.31977278 -0.7129447 ]
+10000 :: Rewards 94.624 :: steps: 80.00 :: Time: 0.022(0.00028/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.31577884 -0.71749028]
+11000 :: Rewards 93.309 :: steps: 78.00 :: Time: 0.016(0.00020/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.31405568 -0.71896599]
+12000 :: Rewards 96.096 :: steps: 43.00 :: Time: 0.000(0.00000/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.30669545 -0.72770721]
+13000 :: Rewards 96.861 :: steps: 50.00 :: Time: 0.022(0.00044/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.30246236 -0.73228584]
+14000 :: Rewards 97.356 :: steps: 30.00 :: Time: 0.000(0.00000/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.29733705 -0.73762315]
+15000 :: Rewards 97.868 :: steps: 34.00 :: Time: 0.000(0.00000/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.29118484 -0.74369327]
+16000 :: Rewards 96.211 :: steps: 57.00 :: Time: 0.016(0.00027/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.28483898 -0.74947344]
+17000 :: Rewards 96.959 :: steps: 44.00 :: Time: 0.009(0.00020/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.2778505  -0.75645122]
+18000 :: Rewards 97.303 :: steps: 34.00 :: Time: 0.024(0.00071/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.27395631 -0.76022725]
+19000 :: Rewards 98.074 :: steps: 38.00 :: Time: 0.016(0.00041/step) :: Entropy : 0.000 :: Grads : [] :: Alpha : [-0.27045949 -0.76375078]
+589.8868863582611
