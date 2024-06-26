@@ -1,4 +1,6 @@
-## Reinforcement Learning When All Actions are Not Always Available
+## Reinforcement Learning When All Actions are Not Always Available 
+
+### This is an attempt of replication, the real code is available on the GitHub page of the authors
 
 This project contains code for the paper titled "Reinforcement Learning When All Actions are Not Always Available" that appeared at the Thirty-fourth Conference on Artificial Intelligence (AAAI 2020).
 
